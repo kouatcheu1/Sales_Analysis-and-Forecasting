@@ -41,22 +41,22 @@ The dataset includes:
 Data visualization was created using power bi and Tableau using different charts to highlight hidden insights from the data.
 
 # Power BI Dashboard
-![](PowerBI_dashboard.jpg)
+![](PowerBI_Dashboard2.jpg)
   
 **Features**:
 <p align="justify">
   
-1. Sales Revenue by Product by Quantity (Stacked Bar Chart)
-- Explanation: The bar chart displays the total sales revenue and Quantity sold for each product category. This visualization makes it easy to compare the performance of different product categories at a glance. For example, it shows that "Food and beverages" has the highest sales revenue, followed by "Electronic Accessories" while "Health and Beauty." Had lowest total sales. Electronics accessories has highest quantity sold while health and beauty had lowest quantity sold. This insight helps identify which product lines are the most profitable and which may need further attention or marketing efforts.
+1. Total Sales and quantity by Product (Stacked Bar Chart)
+- Explanation: The bar chart displays the total sales and Quantity sold for each product category. This visualization makes it easy to compare the performance of different product categories at a glance. For example, it shows that "Food and beverages" has the highest sales revenue, followed by "Electronic Accessories" while "Health and Beauty." Had lowest total sales. Electronics accessories has highest quantity sold while health and beauty had lowest quantity sold. This insight helps identify which product lines are the most profitable and which may need further attention or marketing efforts.
 
-2. Total sales and Rating by payment method (Tree Map chart)
-- Explanation: The chart illustrates the sales and rating distribution between the three payment method (Cash, Ewallet, credit care), Cash had the highest sales and also the highest rating followed by Ewallet while Credit card had lowest sales and also lowest rating. 
+2. Total sales by payment method (Tree Map chart)
+- Explanation: The chart illustrates the sales distribution between the three payment method (Cash, Ewallet, credit care), Cash had the highest sales and also the highest rating followed by Ewallet while Credit card had lowest sales and also lowest rating. 
 
-3. Total and Unit price by Branch (Pie Chart)
-- Explanation: The chart displays sales and unit price distribution across different Branch. Each branch is color-coded based on the total sales revenue. Branch “C” which is colored orange has the highest total revenue and also the highest unit price, followed by branch “B” while branch “A” had the lowest sales and lowest unit price.
+3. Total by Branch (Bar Chart)
+- Explanation: The chart displays sales distribution across different Branches. Branch “C” has the highest total sales, followed by branch “B” while branch “A” had the lowest sales.
 
-4. Total sales by Month (Line Chart)
-- Explanation: The visualizations shows the trend over time in the data, displaying total sales by month. January is the month with the highest sales, followed by March while February had the lowest total revenue.
+4. Total sales by Month (Stacked bar Chart)
+- Explanation: The visualizations shows the distribution of sales over time in the data, displaying total sales by month. January is the month with the highest sales, followed by March while February had the lowest total revenue.
 
 5. Total sales by City (Map Visualization)
 Explanation: The map chart shows the distribution of sales by the city.  Napityjaw had the highest sales, followed by Yangon while Mandaley had lowest sales.
