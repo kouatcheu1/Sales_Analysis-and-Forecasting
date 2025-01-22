@@ -66,7 +66,7 @@ Four cards were used to display the total sales, COGS, Rating and Quantity sold.
 
 7. Two slicer were used to filter the records.
 
-_You can interact with the Power BI dashboard_ [here](https://app.powerbi.com/groups/me/reports/b92675e0-ec13-4f55-b7bb-eb7c2bfec766/ReportSection?experience=power-bi )
+_You can interact with the Power BI dashboard_ [here](https://github.com/kouatcheu1/Sales_Analysis-and-Forecasting/blob/main/PowerBI_dashboard.pbix)
 </p>
 
 # Tableau Dashboard
